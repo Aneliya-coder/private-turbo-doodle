@@ -24,11 +24,11 @@ User have to open GIT BASH (Windows) or terminal (Linux)  and write next comands
 
 3. add in existing file  <~/.bash_profile> new PATH for script and accept changing:
 
-```echo 'export PATH="${PATH}:~/bin"' >> ~/.bash_profile
-. ~/.bash_profile```
+```echo 'export PATH="${PATH}:~/bin"' >> ~/.bash_profile```
+```. ~/.bash_profile```
 
-
-Script <srm> installed. 
+*** 
+#Script <srm> installed. 
 
 When script was installed, you can run the command for safe deleting.
 
