@@ -5,7 +5,6 @@ Files are moving to directory ~/RECYCLE before deleting after 7 days, after that
 
 #INSTRUCTION FOR USERS:
 
-
 User have to open GIT BASH (Windows) or terminal (Linux)  and write next comands (step-by-step):
 
 0. make directory ```bin``` in your home directory, if it doesn't exist:
