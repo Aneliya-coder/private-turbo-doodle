@@ -1,9 +1,9 @@
-#SRM (SAFE REMOVE)
+# SRM (SAFE REMOVE)
 
 This script is tool for delete the files safety.
 Files are moving to directory ~/RECYCLE before deleting after 7 days, after that time files couldn't be restored.
 
-#INSTRUCTION FOR USERS:
+# INSTRUCTION FOR USERS:
 
 User have to open GIT BASH (Windows) or terminal (Linux)  and write next comands (step-by-step):
 
